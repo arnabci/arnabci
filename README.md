@@ -38,10 +38,11 @@ arch in ~
 ```
 
 <p align="left"><strong><samp><i>「</i></samp></strong></p>
+<p align="center">
 <samp>
   <sup>
     <b>
-      <p align="center"><h6>“ᴡᴇ ʜᴀᴠᴇ ᴛᴏ ʟɪᴠᴇ ᴀ ʟɪꜰᴇ ᴏꜰ ɴᴏ ʀᴇɢʀᴇᴛs.” – ᴘᴏʀᴛɢᴀs ᴅ. ᴀᴄᴇ (ɢᴏʟ ᴅ. ᴀᴄᴇ)</h6>
+      “ᴡᴇ ʜᴀᴠᴇ ᴛᴏ ʟɪᴠᴇ ᴀ ʟɪꜰᴇ ᴏꜰ ɴᴏ ʀᴇɢʀᴇᴛs.” – ᴘᴏʀᴛɢᴀs ᴅ. ᴀᴄᴇ (ɢᴏʟ ᴅ. ᴀᴄᴇ)
     <br>
   </sup>
 </samp>
