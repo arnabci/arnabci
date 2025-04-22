@@ -9,7 +9,7 @@
         👽 Hello world!
       </b>
       <br>
-        System engineer, technologist, passionate about science and animals. Learning as we speak.
+        System engineer, technologist, passionate about science and animals. Learning as we speak. Arch BTW.
       <br>
       <br>
       <b>
