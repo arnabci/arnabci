@@ -19,6 +19,8 @@
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
+<p align="left"><strong><samp><i>「</i></samp></strong></p>
+
 ```
 
            .             ​ arnabci@TR3-VR 
@@ -35,6 +37,8 @@
 arch in ~ 
   λ echo "Stay Determined!"
 ```
+<p align="right"><strong><samp><i>」</i></samp></strong></p>
+
 <p align="left"><strong><samp><i>「</i></samp></strong></p>
 <p align="center">
 <samp>
