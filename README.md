@@ -38,7 +38,6 @@ arch in ~
 ```
 
 <p align="left"><strong><samp><i>「</i></samp></strong></p>
-<p align="center">
 <samp>
   <sup>
     <b>
