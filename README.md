@@ -46,11 +46,6 @@ arch in ~
 </samp>
 </p>
 
-<div align="center">
-  <img  src="[https://github.com/arnabci/arnabci/main/animation/snake.gif](https://github.com/arnabci/arnabci/blob/main/animation/snake.gif)"
-       alt="snake" />
-</div>
-
 <!--
 **arnabci/arnabci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
