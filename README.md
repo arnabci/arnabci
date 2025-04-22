@@ -47,7 +47,7 @@ arch in ~
 </p>
 
 <div align="center">
-  <img  src="https://github.com/arnabci/arnabci/main/animation/snake.gif"
+  <img  src="[https://github.com/arnabci/arnabci/main/animation/snake.gif](https://github.com/arnabci/arnabci/blob/main/animation/snake.gif)"
        alt="snake" />
 </div>
 
