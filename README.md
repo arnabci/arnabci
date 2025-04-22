@@ -46,7 +46,6 @@ arch in ~
     <br>
   </sup>
 </samp>
-</p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
 <!--
