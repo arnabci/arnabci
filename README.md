@@ -35,7 +35,7 @@
 arch in ~ 
   λ echo "Stay Determined!"
 ```
-
+<p align="left"><strong><samp><i>「</i></samp></strong></p>
 <p align="center">
 <samp>
   <sup>
@@ -45,6 +45,7 @@ arch in ~
   </sup>
 </samp>
 </p>
+<p align="right"><strong><samp><i>」</i></samp></strong></p>
 
 <!--
 **arnabci/arnabci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
